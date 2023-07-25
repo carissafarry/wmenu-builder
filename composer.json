@@ -1,8 +1,13 @@
 {
-    "name": "harimayco/laravel-menu",
+    "name": "carissafarry/laravel-menu",
     "description": "drag and drop menu generator like wordpress for laravel 5",
     "keywords": ["Laravel", "Menu", "Wordpress", "Builder"],
     "authors": [
+        {
+            "name": "Carissa Farry",
+            "email": "carissafarry@gmail.com",
+            "role": "Custom Developer"
+        },
     	{
             "name": "Rendy Harimayco",
             "email": "rendyharimayco@gmail.com",
